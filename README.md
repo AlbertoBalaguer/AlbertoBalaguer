@@ -3,11 +3,10 @@
 </div>
 
 ## About me!
-- 💻 WEB APP DEVELOPER! 💻
+- 💻 Web app developer 💻
 - ☕ Java, HTML, CSS & JS ☕
 - ⭐ Graphic designer ⭐
 - 🖌 3D & 2D digital artist 🖌
-- 🔳 Pixel art! 🔳
 - 🗿 Heritage professional 🗿
 
 ## Where did I study?
