@@ -1,5 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I am Alberto Balaguer!</a> 👋</h1>
+<img src="img/fnt1.png">
 </div>
 
 ## About me!
